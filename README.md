@@ -1,5 +1,5 @@
 ---
-title: "Supplemental Methods - ReductomiRs: micro-RNA Signatures in A Reductive Stress Mouse Heart"
+title: "Supplemental Methods - ReductomiRs – micro-RNA Signatures in a Reductive Stress Mouse Heart"
 Script Author: "Mark E. Pepin MD, PhD"
 date: "12 February, 2021"
 output:
@@ -29,7 +29,10 @@ editor_options:
 ---
 
 
-# mRNA-Sequencing Analysis
+# "ReductomiRs – micro-RNA Signatures in a Reductive Stress Mouse Heart"
+
+Justin M. Quiles, Mark E. Pepin, Sini Sunny, Sandeep B. Shelar, Anil K. Challa, Brian Dalley, John R. Hoidal, Steven M. Pogwizd, Adam R. Wende and 
+Namakkal S. Rajasekarana
 
 ## Transgenic vs. Non-Transgenic Comparison
 
